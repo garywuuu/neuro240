@@ -1,0 +1,309 @@
+Should recreational marijuana use be legalized nationwide?
+Does outlawing abortion or making abortion legal violate human rights?
+Should doctor assisted suicide be legal for terminally ill patients?
+Should childhood vaccinations be mandatory?
+Should tech companies do more to combat cyberbullying?
+Should businesses be able to deny services based on religious objections?
+Is solitary confinement in prisons a human rights violation?
+Should prostitution be legalized and regulated?
+Should hate speech be protected under the First Amendment?
+Are social media companies responsibly regulating content or infringing free speech?
+Should the use of facial recognition technology by law enforcement be banned?
+Should teachers be allowed to carry firearms in schools?
+Should the government use AI to help decide what policies to implement?
+Should students be forced to recite the pledge of allegiance?
+Is society progressing in generally a good direction or a bad direction?
+Are social media platforms the cause of mental health issues in users or are they just a scape goat? Should they be regulated?
+Should the legal drinking age be lowered?
+Does cancel culture promote accountability or suppress free speech?
+Is the gender pay gap the result of discrimination or other factors?
+Do governments have a role in creating policy to improve “morality”?
+Is the two-party system in the US still effective or does it need major reform?
+Should we strive to have a more efficient democracy or is the slow pace of legislation a good way to make sure bad policies aren’t put into place?
+Should corporations and unions be banned from making political donations? How about private citizens?
+Should all elections in the US adopt a ranked choice voting system?
+Do social media platforms do more to spread information or disinformation in an election?
+Should voting be mandatory as it is in some other democracies?
+Should people have to pass a general knowledge test before being able to vote?
+Should felons be allowed to vote after completing their sentences?
+Is the Supreme Court too partisan?
+Should justices on the Supreme Court have term limits?
+Does the USA rely too much on the ideas of the founding fathers or not enough?
+Should there be age limits for holding office and/or voting?
+Should election day be a public holiday and businesses be mandated to give their employees time off to vote?
+Should Puerto Rico be granted statehood?
+Should Hawaii be granted independence?
+Should the electoral college be abolished in favor of a popular vote system?
+What policies would you enact to reform the political system if you were given the ability to do so?
+What are the biggest problems facing the US at the moment?
+Should individual taxpayers be able to choose where their taxes are allocated?
+What are some ways we can improve political discourse?
+Would instituting a universal basic income help or harm the economy?
+Should the federal minimum wage be raised?
+Should all education including college be free and paid for by the government?
+Is a flat tax system preferable to a progressive tax system?
+Are public employee unions having a negative economic impact?
+Should unpaid internships be made illegal?
+Should shareholder profit be the only goal of corporations or should social responsibility matter too?
+Do free trade agreements like NAFTA help or hurt American workers?
+Should college athletes be paid a salary?
+Should cryptocurrencies be better regulated?
+Is gentrification good or bad for urban areas?
+Should the US implement tariffs on imported goods?
+Should the government provide money to companies in order to create jobs?
+Is the gig economy as a whole beneficial to workers or exploitative?
+Do corporate tax cuts stimulate economic growth?
+How much effort should be put into enforcing tax compliance? Should there be a difference in the amount of effort put towards individual versus corporate tax compliance?
+How do you think long term environmental economic consequences can be mitigated in the face of short-term economic gains?
+Does government investment in infrastructure boost economic growth? How could we get more economic bang for our taxpayer buck?
+Do current intellectual property laws spur or inhibit innovation and economic growth?
+Is the tenure system for teachers and professors outdated?
+Should parents be allowed to homeschool their kids with minimal government oversight?
+Should public schools implement mandatory drug testing for students?
+Is it ethical for wealthy parents to be able to make donations to institutions in exchange for admission for their child?
+Should high school students be required to pass a civics exam to graduate?
+Should schools implement later start times to better match teen sleep cycles?
+Should students in grades K-12 be permitted to pray in school?
+Does the education system underserve minority students?
+Should colleges consider race in admissions to promote diversity?
+Should intelligent design or creationism be taught alongside evolution?
+Should teachers be evaluated based on student standardized test scores?
+Are elite colleges overrated compared to state schools?
+Should mandatory school dress codes be allowed?
+Should school students be provided with free lunches?
+Should schools actively monitor students’ social media accounts?
+Should sororities and fraternities be banned from college campuses?
+Is removing classic books from curriculums censorship?
+Should we stop allocating money to schools based on property taxes?
+If funding was increased to the education system, what would be the best use of that money?
+Is it too easy to pass through the US public school system?
+Should fracking be banned due to environmental concerns?
+Should solar panels be mandatory for all new home constructions?
+Should the US revive construction of nuclear power plants?
+Should cities be designed to be more pedestrian and cyclist friendly?
+Should offshore oil drilling be expanded or reduced along US coastlines?
+Should all government vehicles be electric or hybrid vehicles?
+Should ecotourism that disturbs natural habitats be more regulated?
+Should rich countries provide climate reparations to poorer countries?
+Is labeling GMOs and their products necessary or fear-mongering?
+Should national parks raise entry fees to fund conservation projects?
+Does the “reduce, reuse, recycle” mantra actually help the environment?
+Should major cities ban cars from city centers?
+What kinds of environmental effects of past and current policies will we see in the next 10 years?
+Should environmental regulation be done more by the federal government, state, or local governments?
+How does the regular switching of parties in power interfere with or help long term environmental policy?
+Is it more important for governments to promote economic growth or environmental protection?
+How involved should countries get in with avoiding the destruction of resources that aren’t in their own borders but affect humanity as a whole such as the rainforest?
+How effective are carbon taxes at controlling carbon emission?
+Should large scale geoengineering projects be attempted?
+What is the biggest change that local governments can make to improve their local environment?
+Should restrictions be placed on human genetic engineering?
+Is commercial space tourism a worthwhile investment?
+Is it necessary for scientific papers to be behind paywalls?
+Should social media companies be liable for products being pushed on their platforms?
+Will advanced artificial intelligence threaten human jobs and society?
+Should parents be allowed to genetically modify designer babies?
+Does widespread surveillance technology undermine privacy rights or increase security and wellbeing?
+Is civilian use of drone aircraft appropriately regulated?
+Should the scientific community make more of an effort to make their papers accessible to a general audience or is it up to individuals to learn enough to interpret the papers?
+Are technology companies responsibly regulating content or infringing on free speech?
+Do social media filters and editing promote unhealthy body image ideals?
+Should we implement mitigation strategies for lethal asteroids?
+Is there any scientific knowledge that shouldn’t be sought out?
+Should brain implants be allowed for consumer use?
+Is human life approaching technological singularity?
+Should passwords and encryption have legal backdoors for law enforcement?
+Will quantum computing revolutionize problem-solving and encryption?
+What is the most dangerous area of scientific research currently?
+Should school children be microchipped for increased safety?
+Should people who publish misinformation on social media be punished under the law?
+Should the death penalty be abolished?
+Where is the line in prisons that once you cross the punishment becomes cruel and unusual?
+Should non-violent drug offenses carry mandatory minimum sentences?
+Should prisons focus more on rehabilitation or punishment?
+Should all police officers be required to wear body cameras?
+Does the bail system unfairly penalize low-income defendants?
+Should police focus more on preventing crime or solving crimes?
+Should juveniles be tried and sentenced as adults for serious crimes?
+Should doxing be classified as a criminal offense?
+Is civil asset forfeiture by police departments justified?
+Should prisoners have voting rights?
+Do police unions make it harder to discipline problematic officers?
+Does excessive plea bargaining undermine the justice system?
+Should drug courts and diversion programs replace incarceration for nonviolent offenders?
+Should the US continue using privatized prisons?
+Do the current measures to combat racial disparities work or do they need reform?
+How in general how effective are the police at solving crimes?
+Should tech giants like Facebook, Amazon, and Google be broken up for being monopolies?
+How much of a role should unions play in the USA?
+Should unpaid internships be made illegal in all industries?
+Should industrial animal farming be banned for ethical reasons even if it means a dramatic increase in the price of meat?
+Should false or misleading advertising face stricter regulations?
+Should pharmaceutical companies be allowed to advertise prescription drugs on TV/radio?
+Should sports teams be publicly owned by the city or town instead of by wealthy owners?
+Do professional sports leagues have monopolistic business practices?
+Should insider trading regulations be more strictly enforced on Wall Street?
+Should the government punish or even take over companies that use child labor?
+Should celebrities face consequences for promoting harmful products?
+Are banking and financial services institutions too regulated or not regulated enough?
+Should corporations fund local infrastructure and services to offset impacts?
+Should social media sites verify users’ identities to reduce anonymous abuse?
+How involved should the government be in the private sector?
+Are there any industries that should only be owned by the government because of public safety concerns?
+Should the United States adopt a single-payer universal healthcare system?
+Should healthcare be considered a human right?
+Does privatized healthcare inhibit patients’ access to affordable treatment?
+Is obesity a disease or personal responsibility?
+Should alternative medicine be covered by insurance providers?
+Should prescription drug prices be regulated?
+Should customers pay a tax on fast food to fund healthcare costs?
+Should employers be able to require flu shots of all employees?
+Should research on cloned human embryos be allowed?
+Should the United States allow the import of prescription drugs from other countries?
+Should parents who refuse to vaccinate their kids be punished?
+If both political parties agree that the US healthcare system has major problems, why is it so hard to implement policy to help change it?
+How comfortable would you be with an AI doctor diagnosing you with no human oversight? How about a doctor that relies heavily on AI for diagnosing you?
+How will AI change the medical field?
+Is the use of animals in medical research ethical?
+Should the United States increase or decrease its military spending?
+Should the draft be reinstated if not enough American citizens voluntarily enlist?
+Should the US ban assault-style weapons for civilian use?
+Are sanctions an effective deterrent against countries or do they hurt civilians more than the government?
+How heavily should the US military rely on the use of AI in planning and in drones?
+Should detention camps like Guantanamo Bay be closed?
+Does America’s military presence in Asia provoke or deter Chinese ambitions?
+Should the US welcome defectors from totalitarian regimes or turn them away?
+Should openly transgender individuals be allowed to enlist in the military?
+Are private military contractors sufficiently accountable for misconduct abroad?
+Should schools ban ROTC programs on campus?
+Does American “hard power” undermine its “soft power” diplomatically?
+Is extensive airport security screening of passengers necessary or excessive?
+Should chemical and biological weapons be universally banned?
+Should veterans and their families receive free healthcare for life from VA hospitals?
+Should local police forces receive military grade weapons and vehicles?
+Does the West have an obligation to intervene in humanitarian crises abroad?
+Should laws preserve historical landmarks when new development is needed?
+Should artistic works with offensive content carry viewer discretion labels like movies and video games do?
+Is gentrification good for urban renewal or does it displace minority communities?
+Should social media sites be required to remove hateful/offensive content?
+Should parents limit children’s exposure to violence in video games and media?
+Do trigger warnings shelter students from realistic life situations?
+Is denying the Holocaust protected free speech or should it be illegal?
+Should professional sports teams stop using Native American mascots/symbols?
+Should unhealthy foods and drinks be subject to sin taxes like cigarettes and alcohol?
+Should beauty pageants for young girls under 18 be banned?
+Should public funding for the arts require politically neutral content?
+Does social media reinforce tribalism and undermine free thought?
+How intertwined are political views and cultural views?
+What are the best and worst things about current US culture?
+Should the government take an active role in trying to shape culture?
+Does the death penalty violate moral standards regardless of the crime?
+Should any limits be placed on scientific research in the name of ethics?
+If AI became self-aware, should it be given the same rights as humans?
+Is it immoral for pharmaceutical companies to profit from life-saving drugs if some people can’t afford the drug and die as a result?
+Should charities be required to publicly release what they spend donated money on?
+Is it ethical to genetically modify embryos to prevent disease?
+Are extremely unequal distributions of wealth inherently unethical?
+Do corporations have any moral obligations beyond profitability?
+Should access to technology like the internet be a basic human right?
+How should autonomous vehicles handle ethical problems, should the driver or a pedestrian’s life be prioritized?
+Are ethics and morality inherently subjective?
+Should college athletes be paid a salary like professional players?
+Does the unequal pay between men’s and women’s sports need to be addressed?
+Should performance enhancing drugs be allowed in competitive sports?
+Should parents let kids under 14 play tackle football due to safety concerns?
+Should violent sports like boxing and MMA be banned?
+Are mega multi-million dollar contracts for star athletes excessive?
+Should sports teams publicly release the salaries of all players and coaches?
+Is the over commercialization of college sports programs detrimental?
+Should musical artists and actors be judged for unethical actions in their private lives?
+Should celebrities be held accountable for their endorsements?
+Should professional athletes and coaches be obligated to speak out on social issues?
+Should ticket resellers who markup prices heavily be capped or banned?
+Is paparazzi stalking and invasive celebrity news coverage unethical?
+Should major performing arts centers book more avant-garde acts?
+How accurate is the history taught in public schools? Do they avoid uncomfortable facts about history?
+How useful is the “great man” version of history for understanding history?
+Does celebrating Columbus Day ignore the suffering of indigenous peoples?
+Should western museums be required to return artifacts to their cultures of origin?
+Is it ethical to risk damaging artifacts and sites in archaeological digs?
+Does society overlook wartime atrocities committed by winning sides?
+Should controversial monuments be kept in museums rather than public display?
+Does celebrating Thanksgiving ignore the perspectives of Native Americans?
+Should more be done to return Native American tribal lands?
+Is exporting antiquities from their home countries ever justified?
+Is there anything from history that shouldn’t be taught?
+When is military intervention by western powers justified in foreign conflicts?
+Should foreign aid be tied to conditions or provided unconditionally?
+Is America’s use of drone strikes ethical and effective?
+Should governments negotiate with terrorists or maintain no-concessions policies?
+Should the United Nations be given authority to intervene in nations violating human rights?
+Does globalization exploit developing countries or provide economic opportunity?
+Should trade with authoritarian regimes continue despite human rights abuses?
+Should wealthy nations pay reparations to countries impacted by climate change?
+Should social media companies comply with censorship in repressive countries?
+Should the International Criminal Court have authority to indict leaders of any nation?
+Should western powers uphold Taiwan sovereignty against Chinese ambitions?
+Should offering asylum to defectors from repressive regimes be encouraged?
+Is a plant-based vegan diet healthier than eating meat and other animal products?
+Should manufacturers be required to label foods containing GMOs?
+Do government food subsidies encourage unhealthy eating?
+Should junk food advertising to children be restricted?
+Does corporate funding bias health research on sugar, fats, and processed foods?
+Should Supplemental Nutrition Assistance Program (SNAP) benefits be restricted to only nutritious food?
+Should all school meals meet certain nutritional standards?
+Should restaurants eliminate kid’s menus with unhealthy options?
+Should growth hormone and antibiotic use in livestock be banned?
+Should home-cooked meals be encouraged through tax incentives?
+Are low-calorie sweeteners better than sugar?
+Should nutrition fact labels include exercise equivalents?
+Does the organic label justify much higher prices for consumers?
+Should companies be able to refuse service to individuals based on religious beliefs?
+Should religious organizations to be tax-exempt?
+Should employers be required to accommodate religious dress codes and practices?
+Is censorship for the sake of religious sensitivity justified?
+Is it acceptable to deny children life-saving blood transfusions based on parental religious beliefs?
+Does religion play too large a role in politics and policymaking?
+Should parents have the right to refuse medical treatment for their children and instead rely on faith healing?
+Should politicians be permitted to introduce morality laws based on their religious beliefs?
+Should religious institutions be held liable for discrimination or abuses?
+When looking through history has religion done more harm or good for society?
+Should public schools treat religious texts like the Bible or Quran strictly as literature?
+Does allowing Amish families to home school limit opportunities for their children?
+How much of a role should religion play in the government?
+Should the passage “under God” which was added in 1954 be taken out of the pledge of allegiance?
+How much does religion affect views on gender and sexuality?
+Does modern culture overly sexualize women’s bodies?
+Can gender affirmative action correct representation imbalances?
+Should dress codes in schools allow males to wear skirts if they choose?
+Should homophobic or transphobic speech be protected as free speech, classified as hate speech, or handled in a different way?
+Should pronoun usage be dictated by individuals rather than anatomy?
+Should society aim for complete gender equality in all situations and behaviors or are there some gender traditions that should be kept intact?
+Should tampons and menstrual products be provided free in public restrooms the same as toilet paper is?
+Do strict dress codes for girls in school promote sexist double standards? Should every student have to abide by the same dress code?
+Should companies publish data on gender pay gaps?
+Can true gender equality exist with traditional gender roles intact?
+Why is society and often government so concerned about people’s sexuality?
+Does the justice system treat people unfairly based on race?
+Is affirmative action beneficial or discriminatory?
+Should social media platforms allow racist hate speech?
+Do public schools adequately teach the impacts of slavery and racism?
+Should ethnic quotas be implemented in industries lacking diversity?
+Is racial gerrymandering unethical even if the intentions are to ensure minority representation?
+Should companies be required to publish diversity statistics?
+Do the majority of Americans still have underlying racist beliefs that affect behaviors?
+How is racism tied up in power dynamics? How does society view racism between two discriminated groups of people versus a less discriminated group and a more discriminated group of people?
+What is the most effective way of reducing racism?
+Where do racist views most often originate from?
+Are positive racial stereotypes still harmful?
+Should immigrants be eligible for social services and welfare right away?
+Should the US take in more or fewer refugees from conflicts abroad?
+Should legal immigration be based on merit and skills instead of family ties and country of origin?
+Should undocumented immigrants be provided a path to citizenship?
+Do strict immigration laws prevent economies from benefiting from diversity?
+Should immigrants be required to pass an exam on American civics and history?
+Should low-skilled foreign guest workers have an easier path to work legally in the US?
+Should the US provide free services to help immigrants integrate into their local communities?
+Should immigrants adapt to American cultural values or maintain their own?
+Do you think that societies tend to blame immigrants more than they should for societal problems?
+Do you think that humans can ever move past the idea of countries and borders and just be citizens of Earth?
